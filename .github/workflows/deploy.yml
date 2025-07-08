@@ -45,3 +45,11 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/my-devops-blog:${{ env.VERSION }},${{ secrets.DOCKER_USERNAME }}/my-devops-blog:latest
+
+      - name: Notify Coolify to deploy
+        run: |
+          curl -X POST \
+            -H "Content-Type: application/json" \
+            -H "X-Webhook-Secret: ${{ secrets.COOLIFY_WEBHOOK_SECRET }}" \
+            -d '{"ref":"refs/heads/main","repository":{"full_name":"${{ github.repository }}"},"after":"${{ github.sha }}"}' \
+            https://coolify.gurjyotanand.site/webhooks/source/github/events/manual

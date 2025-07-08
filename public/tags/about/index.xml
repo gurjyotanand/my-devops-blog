@@ -9,12 +9,12 @@
     <managingEditor>youremail@example.com (Gurjyot Singh Anand)</managingEditor>
     <webMaster>youremail@example.com (Gurjyot Singh Anand)</webMaster>
     <copyright>&amp;copy; 2025 Gurjyot Singh Anand. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>My First Blog Post</title>
       <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Gurjyot Singh Anand)</author>
       <guid>http://localhost:1313/posts/first-post/</guid>
       <description>Learn more about me and why I am starting this blog.</description>

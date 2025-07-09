@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on DevOps Blog</title>
+    <title>Series on gurjyotanand.site</title>
     <link>http://localhost:1313/series/</link>
-    <description>Recent content in Series on DevOps Blog</description>
+    <description>Recent content in Series on gurjyotanand.site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>youremail@example.com (Gurjyot Singh Anand)</managingEditor>
-    <webMaster>youremail@example.com (Gurjyot Singh Anand)</webMaster>
+    <managingEditor>gurjyot.anand@hotmail.com (Gurjyot Singh Anand)</managingEditor>
+    <webMaster>gurjyot.anand@hotmail.com (Gurjyot Singh Anand)</webMaster>
     <copyright>&amp;copy; 2025 Gurjyot Singh Anand. All rights reserved.</copyright>
     <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     

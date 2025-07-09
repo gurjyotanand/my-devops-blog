@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DevOps Blog</title>
+    <title>gurjyotanand.site</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on DevOps Blog</description>
+    <description>Recent content on gurjyotanand.site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>youremail@example.com (Gurjyot Singh Anand)</managingEditor>
-    <webMaster>youremail@example.com (Gurjyot Singh Anand)</webMaster>
+    <managingEditor>gurjyot.anand@hotmail.com (Gurjyot Singh Anand)</managingEditor>
+    <webMaster>gurjyot.anand@hotmail.com (Gurjyot Singh Anand)</webMaster>
     <copyright>&amp;copy; 2025 Gurjyot Singh Anand. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Little Introduction About Myself</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <author>gurjyot.anand@hotmail.com (Gurjyot Singh Anand)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      
+    </item>
     
     <item>
       <title>My First Blog Post</title>
       <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <author>youremail@example.com (Gurjyot Singh Anand)</author>
+      <author>gurjyot.anand@hotmail.com (Gurjyot Singh Anand)</author>
       <guid>http://localhost:1313/posts/first-post/</guid>
       <description>Learn more about me and why I am starting this blog.</description>
       

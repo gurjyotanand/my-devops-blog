@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "DevOps Blog"
+title = "gurjyotanand.site"
 
 [params]
   displayName = "EN"
@@ -16,11 +16,11 @@ title = "DevOps Blog"
 
 [params.author]
   name = "Gurjyot Singh Anand"
-  email = "youremail@example.com"
+  email = "gurjyot.anand@hotmail.com"
   image = "img/blowfish_logo.png"
   imageQuality = 96
-  headline = "I'm only human"
-  bio = "A little bit about you-not working"
+  headline = "Cloud Engineer | DevOps Specialist | AI Enthusiast"
+  bio = "Cloud Engineer | DevOps Specialist | AI Enthusiast"
   links = [
     { email = "mailto:gurjyot.anand@hotmail.com" },
 #     { link = "https://link-to-some-website.com/" },

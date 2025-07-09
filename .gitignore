@@ -1,8 +1,2 @@
 .DS_Store
-resources/
 public/
-data/
-i18n/
-layouts/
-static/
-themes/blowfish/exampleSite/

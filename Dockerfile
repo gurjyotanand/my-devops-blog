@@ -1,5 +1,5 @@
 # Stage 1: Build the Hugo site
-FROM hugomods/hugo:exts-0.118.2 AS build
+FROM hugomods/hugo:exts-0.147.9 AS build
 WORKDIR /app
 COPY . .
 RUN npm install --ignore-scripts  # Only if your theme requires it
